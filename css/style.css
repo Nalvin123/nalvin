@@ -59,8 +59,7 @@ footer{
 }
 
 .navbar{
-    padding-top:15px;
-    padding-bottom:15px;
+    padding:0;
 }
 
 .navbar-brand {
