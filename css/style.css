@@ -137,3 +137,8 @@ footer{
     margin-top:35px;
     border-radius:10px;
 }
+.hero-image{
+    width:220px;
+    height:420px;
+    object-fit:contain;
+}
