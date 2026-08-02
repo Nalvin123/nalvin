@@ -48,18 +48,19 @@ footer{
     color:#fff;
 }
 .logo{
-    height:90px !important;
+    height:140px !important;
     width:auto;
     display:block;
 }
 
-.navbar-brand{
-    padding:0;
+.navbar-brand img{
+    height:140px;
+    width:auto;
 }
 
 .navbar{
-    padding-top:10px;
-    padding-bottom:10px;
+    padding-top:15px;
+    padding-bottom:15px;
 }
 
 .navbar-brand {
@@ -136,9 +137,4 @@ footer{
     border-left:5px solid #c1121f;
     margin-top:35px;
     border-radius:10px;
-}
-.hero-image{
-    width:220px;
-    height:420px;
-    object-fit:contain;
 }
